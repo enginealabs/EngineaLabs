@@ -14,8 +14,7 @@
 
 ### 🌐 Connect With Us
 - Website: [www.enginealabs.com](https://www.enginealabs.com)  
-- Email: ahmedaligrioui@enginealabs.com  
-- LinkedIn: [EngineaLabs](https://www.linkedin.com/company/enginealabs)  
+- Email: hello@enginealabs.com  
 
 ---
 
@@ -31,9 +30,7 @@
 
 ### 🌐 Contactez-nous
 - Site Web : [www.enginealabs.com](https://www.enginealabs.com)  
-- Email : ahmedaligrioui@enginealabs.com  
-- LinkedIn : [EngineaLabs](https://www.linkedin.com/company/enginealabs)  
-
+- Email : hello@enginealabs.com
 ---
 
 ## 🇸🇦 العربية
@@ -48,9 +45,7 @@
 
 ### 🌐 تواصل معنا
 - الموقع: [www.enginealabs.com](https://www.enginealabs.com)  
-- البريد الإلكتروني: ahmedaligrioui@enginealabs.com  
-- لينكدإن: [EngineaLabs](https://www.linkedin.com/company/enginealabs)  
-
+- البريد الإلكتروني:hello@enginealabs.com
 ---
 
 ## 🛠️ Tech & Expertise
